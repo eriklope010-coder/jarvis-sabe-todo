@@ -1,0 +1,10 @@
+JARVIS IPHONE - VOZ CONTINUA Y CONOCIMIENTOS LOCALES
+
+1. Extrae el ZIP y sube TODOS los archivos a la raíz de tu repositorio GitHub Pages.
+2. Mantén juntos index.html, app.js, local.js, mates.js y conocimientos.js.
+3. Espera la publicación de GitHub Pages y vuelve a abrir la app desde Safari.
+4. Toca el orbe una vez para activar la conversación: Jarvis intenta escuchar, contestar y volver a escuchar automáticamente. Tócalo otra vez para parar.
+5. Safari/iOS puede detener el micrófono o impedir reiniciarlo sin otro toque. Si ocurre, vuelve a tocar el orbe. Es una limitación del navegador, no se puede garantizar escucha permanente en segundo plano.
+6. Las preguntas sobre ciencias, química, física, sociales, geografía, historia, castellano, catalán, inglés e informática se responden desde conocimientos.js sin servidor. Es una base de conceptos frecuentes, NO una IA ni una enciclopedia universal.
+7. Las matemáticas siguen en mates.js. La memoria y otras funciones se conservan.
+8. Si se muestra la versión anterior, cierra la pestaña o app y vuelve a abrirla con conexión para renovar la caché.
